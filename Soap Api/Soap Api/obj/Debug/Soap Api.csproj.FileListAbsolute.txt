@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Soap Api\Soap Api\bin\Soap Api.dll.config
+C:\Users\hp\source\repos\Soap Api\Soap Api\bin\Soap Api.dll
+C:\Users\hp\source\repos\Soap Api\Soap Api\bin\Soap Api.pdb
+C:\Users\hp\source\repos\Soap Api\Soap Api\obj\Debug\Soap Api.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Soap Api\Soap Api\obj\Debug\Soap Api.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Soap Api\Soap Api\obj\Debug\Soap Api.dll
+C:\Users\hp\source\repos\Soap Api\Soap Api\obj\Debug\Soap Api.pdb
